@@ -1,13 +1,10 @@
-# shc-covid19-decoder
+# bc-covid19-decoder
 
 Visit simple hosted version on your phone (does NOT transmit any data, all remains in your browser)
-https://fproulx.github.io/shc-covid19-decoder/
+https://colincalnan.github.io/bc-covid19-decoder/
 
 About
-Very simple app to decode your Vaccination Proof QR Code (such as the one provided by government of Quebec) - Compatible with SHC (Smart Health Card standard).
-
-![decoder-page](decoder-page.jpeg)
-![demo](demo.png)
+Very simple app to decode your Vaccination Proof QR Code (such as the one provided by government of BC) - Compatible with SHC (Smart Health Card standard).
 
 # Building
 
